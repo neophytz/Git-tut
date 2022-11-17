@@ -1,3 +1,3 @@
 # Git-tut
 
-This is tutorial repository for git and github essentails.
+This is tutorial repository for git and github essentials.
