@@ -2,3 +2,4 @@ Clg Name  - Manav Rachna University MRIIRS
 Name - Sarthak Burmi test,
 Dob - 28-10-2002, 
 Age - 20 
+email - sarthak09burmi@gmail.com
