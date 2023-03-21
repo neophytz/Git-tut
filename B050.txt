@@ -1,3 +1,4 @@
 Simran Kaur 
 age=  20
 date of birth= 15 April 2002
+gmail= kaur.simran1542@gmail.com
